@@ -18,3 +18,4 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 
+![Taeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaeyoung201910794&show_icons=true&theme=radical)
