@@ -1,6 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hi!!%20i'm%20taeyoung&fontSize=90)
 
+## introduce
+
+안녕하세요! 😊 열정적이고 창의적인 프론트엔드 개발자 김태영입니다. 웹 기술의 끊임없는 발전에 도전하고 있습니다. 사용자 경험을 개선하고 혁신적인 웹 애플리케이션을 만들기 위해 끊임없이 노력하고 있습니다.
+현재는 서버에도 관심이있어 학습중입니다 😊
+
+
 ## skills
 
 
