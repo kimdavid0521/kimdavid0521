@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=kim%20taeyoung&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hi!!%20i'm%20kim%20taeyoung&fontSize=90)
 
 ## skills
 
