@@ -7,6 +7,14 @@
 웹 기술의 끊임없는 발전에 도전하고 있습니다. 사용자 경험을 개선하고 혁신적인 웹 애플리케이션을 만들기 위해 끊임없이 노력하고 있습니다. <br/>
 현재는 서버에도 관심이있어 학습중입니다 😊
 
+## carrer
+
+2019 - Present 🖥 Public Relations Department, Human Intelligence Information Engineering Department, Sangmyung University, ️<br/>
+2022 - Present 🖥 Complete the 10th term of college like lion <br/>
+2022 - Present 🖥️ Nexon Korea Supporters completed hackathon <br/>
+2023 - Present 🖥️ Complete the 4th UMC Web Part <br/>
+2023 - Present 🖥️ Chairman, 5th UMC Sangmyung University <br/>
+
 
 ## skills
 
