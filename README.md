@@ -10,9 +10,13 @@
 ## carrer
 
 2019 - Present 🖥 Public Relations Department, Human Intelligence Information Engineering Department, Sangmyung University, ️<br/>
+
 2022 - Present 🖥 Complete the 10th term of college like lion <br/>
+
 2022 - Present 🖥️ Nexon Korea Supporters completed hackathon <br/>
+
 2023 - Present 🖥️ Complete the 4th UMC Web Part <br/>
+
 2023 - Present 🖥️ Chairman, 5th UMC Sangmyung University <br/>
 
 
