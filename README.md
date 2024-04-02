@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hi!!%20i'm%20taeyoung&fontSize=90)
 
-<h2 align="center">## Introduce</h2>
+<h2 align="center">☺️Introduce☺️</h2>
 
 안녕하세요! 😊 열정적이고 창의적인 프론트엔드 개발자 김태영입니다. <br />
 웹 기술의 끊임없는 발전에 도전하고 있습니다. <br />
