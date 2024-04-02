@@ -51,3 +51,6 @@
 
 
 ![Taeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdavid0521&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavid0521&langs_count=8)](https://github.com/kimdavid0521/github-readme-stats)
