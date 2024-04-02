@@ -8,7 +8,7 @@
 사용자 경험을 개선하고 혁신적인 웹 애플리케이션을 만들기 위해 끊임없이 노력하고 있습니다. <br/>
 현재는 서버에도 관심이있어 공부중입니다 😊
 
-<h2 align="center">## Career</h2>
+<h2 align="center">🦾Career</h2>
 
 2019 - Present      🖥 Public Relations Department, Human Intelligence Information Engineering Department, Sangmyung University, ️<br/>
 
@@ -23,7 +23,7 @@
 
 
 
-<h2 align="center">## Language</h2>
+<h2 align="center">👀Language</h2>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -33,7 +33,7 @@
 
 
 
-<h2 align="center">## Skills</h2>
+<h2 align="center">🏃‍♂️Skills</h2>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
@@ -43,7 +43,7 @@
 
 
 
-<h2 align="center">## Tools</h2>
+<h2 align="center">🌱🌱Tools</h2>
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
