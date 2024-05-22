@@ -20,6 +20,8 @@
 
 2023 - Present      🖥️ Chairman, 5th UMC Sangmyung University <br/>
 
+2024 - Present      🖥️ 6th UMC Spring Part <br/>
+
 
 
 
