@@ -13,7 +13,7 @@
 <div align="center"> 
   <a href="mailto:trust00005@naver.com"><img src="https://img.shields.io/badge/Email-007ACC?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="https://david-server.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://port-amber-nine.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-282c34?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://davidportfolio-pi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-282c34?style=flat-square&logo=vercel&logoColor=white"/></a>
 </div>
 <br>
 
